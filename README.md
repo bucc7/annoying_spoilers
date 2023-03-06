@@ -4,7 +4,7 @@ Annoy your friends with this Python script!
 
 Using this script is really simple: enter the text you want to send, and it will be instantly copied to your clipboard!
 
-To use this script, you may need to install these packages, but they should be already included with Python when you install it. (Python 3.x and above):
+To use this script, you may need to install these packages via pip/pip3, but they should be already included with Python when you install it. (Python 3.x and above):
 
 ```
 os
